@@ -2,7 +2,7 @@
 A Foundation Model for Multitask Genome-Scale SNP Analysis
 
 # Introduction
-SNPBag can be used for several tasks:
+SNPBag is a BERT (transformer) model trained with large-scale SNP data. It can be used for several tasks:
 - genotype imputation
 - haplotype phasing
 - population classification
