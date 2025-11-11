@@ -1,5 +1,5 @@
 # SNPBag
-A foundation model for multitask genome-scale SNP analysis.
+Towards a universal foundation model for biobank-scale human genome variation.
 - [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.29.635579v3)
 
 # Overview
