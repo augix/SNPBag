@@ -1,0 +1,1 @@
+phasing was done for HGDP individuals with physical phasing results.
