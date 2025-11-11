@@ -15,4 +15,5 @@ Under construction, not 100% finished. Take a peek at [http://guohuaxu.com:5000]
 # Reproduce figures
 Figures on the manuscript can be reproduced with code in ./reproduce.
 
+# Schema
 ![SNPBag Overview](./readme/fig1.png)
