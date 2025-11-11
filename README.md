@@ -12,8 +12,13 @@ SNPBag is a large language model pre-trained with whole-genome SNP data from 1 m
 # Demo
 Under construction, not 100% finished. Take a peek at [http://guohuaxu.com:5000](http://guohuaxu.com:5000).
 
-# Reproduce figures
-Figures on the manuscript can be reproduced with code in ./reproduce.
+# Folders
+Folders contain code for reproducing figures on the manuscript.
+- emb: generating genome embedding.
+- imputation: genotype imputation for SNP array data.
+- phasing: haplotype phasing, tested with physically phased HGDP samples.
+- pop_classifier: classify individuals among human populations defined by 1000 Genome Project.
+- relatedness: estimate degree of genetic relatedness between individuals.
 
 # Schema
 ![SNPBag Overview](./readme/fig1.png)
