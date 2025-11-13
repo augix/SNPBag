@@ -12,7 +12,7 @@ SNPBag is a large language model pre-trained with whole-genome SNP data from 1 m
 # Demo
 - Under construction, not 100% finished.
 - When finished, the above 4 tasks can be performed.
-- Take a peek at [http://guohuaxu.com:5000](http://guohuaxu.com:5000) or [mirror](http://112.124.68.206:5000).
+- Take a peek at [http://guohuaxu.com:5000](http://guohuaxu.com:5000).
 
 # Folders
 Folders contain code for reproducing figures on the manuscript.
