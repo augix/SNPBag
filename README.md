@@ -9,7 +9,7 @@ SNPBag is a large language model pre-trained with whole-genome SNP data from 1 m
 - population classification
 - relatedness inference
 
-# Demo
+# Inference service (Demo)
 - Under construction, not 100% finished.
 - When finished, the above 4 tasks can be performed.
 - Take a peek at [fast server](http://121.40.50.52:5000), [slow server](http://guohuaxu.com:5000), or [backup server](http://112.124.68.206:5000).
