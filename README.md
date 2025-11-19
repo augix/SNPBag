@@ -12,7 +12,7 @@ SNPBag is a large language model pre-trained with whole-genome SNP data from 1 m
 
 # Inference service (Demo)
 - Four tasks are available: imputation, embedding, ancestry and relatedness inference.
-- Try demo on [fast server A800](http://112.124.68.206:5000), or [slow server RTX3090](http://121.40.50.52:5000).
+- Try demo on [fast server Nvidia A800](http://112.124.68.206:5000), or [backup server Nvidia RTX3090](http://121.40.50.52:5000).
 
 # Folders
 Folders contain code for reproducing figures on the manuscript.
