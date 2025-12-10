@@ -13,7 +13,7 @@ SNPBag is a large language model pre-trained with whole-genome SNP data from 1 m
 # Inference service (Demo)
 - Four tasks are available: imputation, embedding, ancestry and relatedness inference.
 - Service on [server1 with Nvidia RTX3090](http://121.40.50.52:5000).
-- Service on [server2 with Nvidia RTX3090](http://112.124.68.206:5000).
+- ~~Service on [server2 with Nvidia RTX3090](http://112.124.68.206:5000).~~
 - ~~Service on [server0 with Nvidia A800](http://112.124.68.206:5000).~~
 
 # Folders
